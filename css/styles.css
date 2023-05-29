@@ -1,0 +1,5 @@
+html {
+    height: 150%;
+    background-image: linear-gradient(to bottom right, #0C2D48, #000000);
+    background-size: cover;
+}
